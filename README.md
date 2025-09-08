@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @fredah0765
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...data analytics
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Fredah
+- 👀 I’m interested in problem-solving, learning, and building meaningful solutions
+- 🌱 I’m currently learning data analytics
+- 💞️ I’m looking to collaborate on data analysis projects
 - 📫 How to reach me ...fredahnjagih15@gmail.com
 - 😄 Pronouns: ...she/her
 - ⚡ Fun fact: ...
